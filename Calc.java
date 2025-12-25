@@ -12,8 +12,10 @@ public class Calc {
 
         int add = a + b;
         System.out.println("Addition = " + add);
-	int sub = a -b;
-	System.out.println("Subtraction= "+sub);
+	
+		int sub = a -b;
+		System.out.println("Subtraction= "+sub);
+		
         int mul = a*b;
         System.out.println("Multiplication= "+mul);
         
