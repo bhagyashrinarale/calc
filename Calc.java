@@ -12,5 +12,9 @@ public class Calc {
 
         int add = a + b;
         System.out.println("Addition = " + add);
+
+        int mul = a*b;
+        System.out.println("Multiplication= "+mul);
+        
     }
 }
